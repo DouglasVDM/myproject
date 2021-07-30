@@ -27,7 +27,7 @@ app.get('/getData', cors(corsOptions), async (req, res) => {
     method: 'GET',
     headers: {
       'X-Cybozu-API-Token':
-        'Tuwwb64FthmZKrXqOghmiyiHxgn6Vhf2VsRCLTWM'
+        'pp1ilivl2tywqh9vap77PDsfTBPl8oTQyez65pAj'
     }
   }
   // Response behaviour
